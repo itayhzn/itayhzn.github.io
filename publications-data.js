@@ -40,16 +40,14 @@ const research = [
     selected: true
   },
   {
-    // TODO: project page https://itayhzn.github.io/remasking-nldl/ returns 404 — fill in details and remove `hidden`.
-    title: "Remasking (NLDL) — title TBD",
+    title: "Remasking in Diffusion Language Models Repairs Self-Conditioning Rather Than Context",
     authors: ["Itay Hazan", "Lior Wolf"],
-    venue: "NLDL 2027",
-    year: 2027,
-    order: 0,
-    media: { image: "" },
+    venue: "NLDL 2026 · Oral",
+    year: 2026,
+    order: 2,
+    media: { image: "assets/img/pubs/remasking.png", fit: "contain" },
     links: { project: "https://itayhzn.github.io/remasking-nldl/" },
-    selected: true,
-    hidden: true
+    selected: true
   },
   {
     title: "TokTimer: Per-Token Denoising Time for Enhanced Prompt Alignment in Flow-Matching Diffusion Models",
