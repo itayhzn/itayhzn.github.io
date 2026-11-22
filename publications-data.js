@@ -8,6 +8,9 @@
 //   links: { project?, paper?, arxiv?, code? }
 //   selected: true  -> also shown in "Selected work" on the home page
 //   hidden: true    -> not rendered anywhere (use for drafts)
+//
+// After editing this file (or site.js / styles.css), bump the `?v=` number on their <script>/<link>
+// tags in index.html and publications.html so browsers don't keep serving a cached copy.
 
 const ME = "Itay Hazan";
 
