@@ -42,9 +42,9 @@ const research = [
   {
     title: "Remasking in Diffusion Language Models Repairs Self-Conditioning Rather Than Context",
     authors: ["Itay Hazan", "Lior Wolf"],
-    venue: "NLDL 2026 · Oral",
-    year: 2026,
-    order: 2,
+    venue: "NLDL 2027 · Oral",
+    year: 2027,
+    order: 0,
     media: { image: "assets/img/pubs/remasking.png", fit: "contain" },
     links: { project: "https://itayhzn.github.io/remasking-nldl/" },
     selected: true
